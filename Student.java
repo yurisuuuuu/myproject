@@ -76,4 +76,5 @@ public class Student {
 		return " [Student Info] \n 이름 : " + name + "\n 나이 : " + age + "\n 학번 : " + studentNum + "\n 학과 : " + major +"\n";
 	}
 	
+	// Test branch edit
 }
